@@ -4,7 +4,8 @@ UCSD bootcamp module 7
 *Overview*
 
 ***Purpose***
-The purpose of this analysis is to show Pewlett-Hackard who will be expected to retire as the "Silver Tsunami" approaches. By using SQL through pgAdmin to perform inquiries on our many .csv files, we can see in full detail who will be leaving the company. Furthermore, The company is interested in finding out which employees are eligible for the Mentorship program. By using the same process as the previous task, pgAdmin can display who is eligible based on certain criteria(s).
+
+The purpose of this analysis is to show Pewlett-Hackard who will be expected to retire as the "Silver Tsunami" approaches. By using SQL through pgAdmin to perform inquiries on our many .csv files, we can see in full detail who will be leaving the company. Furthermore, The company is interested in finding out which employees are eligible for the Mentorship program to train the replacements. By using the same process as the previous task, pgAdmin can display who is eligible based on certain criteria(s).
 
 *Results*
 
